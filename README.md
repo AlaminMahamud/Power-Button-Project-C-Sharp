@@ -1,17 +1,10 @@
-# Power-Button-Project-C-Sharp
-a project where power button options are implemented. Shutdown, Restart, Sleep, Hibernate, Logoff Lock, everything. And totally Reusable
+# Power Button
 
-This is a Console application
+A project where power button options are implemented. Shutdown, Restart, Sleep, Hibernate, Logoff & Lock.
 
-## Project Structure
+# Application Type and Stack
 
-- PowerButtonOptions
-  -- ShutDown
-  -- Restart
-  -- LogOff
-  -- Lock
-  -- Hibernate
-  -- Sleep
+A CLI App written in C#.
 
 ## Features
 
@@ -25,3 +18,25 @@ This is a Console application
 and all the method are reuseable and static
 
 and they can also be used as a library/utility class  
+
+## Contributing
+
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Alamin Mahamud** - *Initial work* - [alamin-mahamud](https://github.com/alamin-mahamud)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
