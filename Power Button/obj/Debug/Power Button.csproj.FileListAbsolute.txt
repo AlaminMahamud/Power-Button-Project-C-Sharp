@@ -1,6 +1,0 @@
-D:\_git projects\Power button Project C#\Power Button\Power Button\bin\Debug\Power Button.exe.config
-D:\_git projects\Power button Project C#\Power Button\Power Button\obj\Debug\Power Button.csprojResolveAssemblyReference.cache
-D:\_git projects\Power button Project C#\Power Button\Power Button\bin\Debug\Power Button.exe
-D:\_git projects\Power button Project C#\Power Button\Power Button\bin\Debug\Power Button.pdb
-D:\_git projects\Power button Project C#\Power Button\Power Button\obj\Debug\Power Button.exe
-D:\_git projects\Power button Project C#\Power Button\Power Button\obj\Debug\Power Button.pdb
