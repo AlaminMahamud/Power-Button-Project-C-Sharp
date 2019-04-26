@@ -1,10 +1,6 @@
 # Power Button
 
-A project where power button options are implemented. Shutdown, Restart, Sleep, Hibernate, Logoff & Lock.
-
-# Application Type and Stack
-
-A CLI App written in C#.
+A project where power button options are implemented. Shutdown, Restart, Sleep, Hibernate, Logoff & Lock. It's a CLI app written in C#.
 
 ## Features
 
